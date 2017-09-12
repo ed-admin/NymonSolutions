@@ -1899,10 +1899,14 @@ body,
 	background-image: url(../images/architecture/generic/hero-half-1.jpg);
 }
 .hero-5-2 .media-column{
-	background-image: url(../images/architecture/generic/hero-half-2.jpg);
+	background-image: url(../images/architecture/generic/testimonial-image.jpg);
 }
 .hero-5-3 .media-column{
-	background-image: url(../images/architecture/generic/hero-half-3.jpg);
+	background-image: url(../images/architecture/generic/aboutus.jpg);
+}
+
+.hero-5-4 .media-column{
+	background-image: url(../images/architecture/generic/contactus.jpg);
 }
 
 /* Call to Action */
